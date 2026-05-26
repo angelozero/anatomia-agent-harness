@@ -612,3 +612,6 @@ O campo está se movendo em direção a harnesses mais finos conforme os modelos
 | **Plan-and-Execute** | Padrão onde planejamento e execução são fases separadas |
 | **LLM-as-Judge** | Usar um LLM para avaliar o output de outro LLM |
 | **Tripwire** | Mecanismo que para o agente imediatamente ao ser acionado |
+
+## Texto Original
+[The Anatomy of an Agent Harness  - By Akshay](https://x.com/akshay_pachaar/status/2041146899319971922)
